@@ -2,7 +2,7 @@
 // SUPABASE CONNECTION
 // =================================
 
-const SUPABASE_URL = "const SUPABASE_URL = "https://uprzldotdbktahfwwaqk.supabase.co";";
+const SUPABASE_URL = "const SUPABASE_URL = "https://uprzldotdbktahfwwaqk.supabase.co";
 
 const SUPABASE_KEY = "sb_publishable_16N8ejryZdngvNYPj2Xp9Q_RbshlWjl";
 
